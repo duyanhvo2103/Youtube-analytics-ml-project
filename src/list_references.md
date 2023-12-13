@@ -39,3 +39,4 @@
 - Animated search bar - [codepen.io/Mehto00](https://codepen.io/Mehto00/pen/RwPapgz?editors=1100)
 - The bouncing text in the upper corner of the screen - [codepen.io/SuperbProgrammer](https://codepen.io/SuperbProgrammer/pen/xxLpmez)
 - Snowflakes animation - [pajasevi.github.io/CSSnowflakes/](https://pajasevi.github.io/CSSnowflakes/)
+- CSS Only Shiny Snowy Christmas Tree - [https://codepen.io/takaneichinose/pen/oJzZxJ](codepen.io/takaneichinose)
