@@ -37,3 +37,4 @@
 - How to show a pandas dataframe into a existing flask html table? - [stackoverflow.com](https://stackoverflow.com/questions/52644035/how-to-show-a-pandas-dataframe-into-a-existing-flask-html-table)
 - Apply CSS class to Pandas DataFrame using `to_html` - [stackoverflow.com](https://stackoverflow.com/questions/50807744/apply-css-class-to-pandas-dataframe-using-to-html)
 - Animated search bar - [codepen.io/Mehto00](https://codepen.io/Mehto00/pen/RwPapgz?editors=1100)
+- The bouncing text in the upper corner of the screen - [codepen.io/SuperbProgrammer](https://codepen.io/SuperbProgrammer/pen/xxLpmez)
