@@ -11,6 +11,8 @@ Group id: `02`
 | Lê Mỹ Khánh Quỳnh  | 21127681   | lmkquynh21@clc.fitus.edu.vn |
 | Vũ Minh Phát       | 21127739   | vmphat21@clc.fitus.edu.vn   |
 
+## Trello
+- [Trello](https://trello.com/invite/b/N5UME2gN/ATTI9c62b7b4bebce4b5b632ca02c1511b0eE139B74C/final-project-intro2ds)
 ## How to run Flask web application?
 
 - Demo:
