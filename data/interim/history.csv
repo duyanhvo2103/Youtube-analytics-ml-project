@@ -1,6 +1,6 @@
 model_name,max_iter,training_score,testing_score
 best_kmeans_model,2,50933.3359375,0.013630102
-best_kmeans_model,4,50774.80078125,0.01517129
+best_kmeans_model,4,50774.8046875,0.01517129
 best_kmeans_model,6,50745.421875,0.015204021
 best_kmeans_model,8,50740.515625,0.015063632
 best_kmeans_model,10,50728.99609375,0.015062757
@@ -24,7 +24,7 @@ best_bisecting_kmeans_model,16,51378.9140625,0.012588178
 best_bisecting_kmeans_model,18,51422.57421875,0.012854719
 best_bisecting_kmeans_model,20,51456.7734375,0.01111343
 best_bisecting_kmeans_model,22,51456.765625,0.01111343
-best_bisecting_kmeans_model,24,51456.7734375,0.01111343
+best_bisecting_kmeans_model,24,51456.765625,0.01111343
 best_bisecting_kmeans_model,26,51456.7734375,0.01111343
 best_bisecting_kmeans_model,28,51456.7734375,0.01111343
 best_minibatch_kmeans_model,2,50938.109375,0.014933277

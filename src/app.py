@@ -43,7 +43,7 @@ vectorizer = TfidfVectorizer(lowercase=True, stop_words='english',
 vectorizer.fit(clustered_df['clean_title'])
 
 
-def _recommend_top_n_videos(cluster_id, top_n: int = 10) -> pd.DataFrame:
+def _recommend_top_n_videos(cluster_id: int, top_n: int = 10) -> pd.DataFrame:
     # Return top `n` video titles in the same cluster
 
     metric_to_sort: str = 'score'
@@ -109,7 +109,7 @@ def _recommend_top_n_videos(cluster_id, top_n: int = 10) -> pd.DataFrame:
     return recommended_videos
 
 
-def _recommend_top_n_tags(cluster_id, top_n: int = 10) -> np.ndarray:
+def _recommend_top_n_tags(cluster_id: int, top_n: int = 10) -> np.ndarray:
     print(f"Getting top {top_n} tags of cluster {cluster_id}...")
     tags_in_cluster = clustered_df.query(f"cluster_id == {cluster_id}")
     tags_in_cluster = tags_in_cluster.sort_values(
