@@ -2,6 +2,7 @@
 
 - Youtube API for Python - [youtube.com/@Thuvu5](https://www.youtube.com/watch?v=D56_Cx36oGY)
 - Python Project to Scrape YouTube using YouTube Data API - [youtube.com/@techTFQ](https://www.youtube.com/watch?v=SwSbnmqk3zY)
+- YouTube Data API documentation - [developers.google.com/youtube](https://developers.google.com/youtube/v3/docs)
 
 ## Choosing clustering models and metric to evaluate them
 
