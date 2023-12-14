@@ -1,2 +1,0 @@
-1. Link GitHub dùng để quản lý source code: https://github.com/BaoDias2505/FinalProject_Introduction-to-data-science/tree/main
-2. Link Trello dùng để quản lý công việc của các thành viên: https://trello.com/b/N5UME2gN/final-project-intro2ds
