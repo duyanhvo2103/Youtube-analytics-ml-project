@@ -40,6 +40,6 @@
 - Animated search bar - [codepen.io/Mehto00](https://codepen.io/Mehto00/pen/RwPapgz?editors=1100)
 - The bouncing text in the upper corner of the screen - [codepen.io/SuperbProgrammer](https://codepen.io/SuperbProgrammer/pen/xxLpmez)
 - Snowflakes animation - [pajasevi.github.io/CSSnowflakes/](https://pajasevi.github.io/CSSnowflakes/)
-- CSS Only Shiny Snowy Christmas Tree - [https://codepen.io/takaneichinose/pen/oJzZxJ](codepen.io/takaneichinose)
+- CSS Only Shiny Snowy Christmas Tree - [codepen.io/takaneichinose](https://codepen.io/takaneichinose/pen/oJzZxJ)
 - How to set background image on Flask Templates? - [stackoverflow.com](https://stackoverflow.com/questions/39579666/how-to-set-background-image-on-flask-templates)
 - CSS background-position Property - [w3schools.com](https://www.w3schools.com/cssref/pr_background-position.php)
